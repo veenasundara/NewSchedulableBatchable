@@ -1,4 +1,4 @@
-# RoundRobin
+# Schedulable Batchable with Exception Handling
 Apex classes and Objects to support new template for Schedulable Batchable Apex
 
 ## Install Steps:
